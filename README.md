@@ -30,7 +30,6 @@ Run the following command to download this project using [Git](http://git-scm.co
   - cp .X* ~/.
   - cp .x* ~/.
   - mkdir ~/.config/awesome
-  - mv awesome-copycats-mbp awesome
   - cp -R awesome ~/.config/
 
 Contributing
